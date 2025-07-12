@@ -1,2 +1,4 @@
-# fxadilima-wuxia.github.io
-Wuxia pages
+# FX. Adi Lima Wuxia
+
+This repo has been dedicated for writing `Wuxia` stories, especially Yuan Dynasty era.
+

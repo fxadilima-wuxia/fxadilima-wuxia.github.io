@@ -1,0 +1,30 @@
+
+title: FX. Adi Lima Personal Site
+url: "https://fxadilima-wuxia.github.io"
+author: FX. Adi Lima
+description: >
+  This is Adi Lima's Wuxia Site on Github.
+  Di repo ini Anda hanya akan menemukan cerita-cerita silat, 
+  yang umumnya mengambil tema Dinasti Yuan.
+
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  skin: auto  # classic or dark, ignore solarized
+
+#
+#   Minima date format.
+#     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
+#     Refer to https://shopify.github.io/liquid/filters/date/ for valid values
+#  date_format: "%b-%d-%Y"
+  date_format: "%A %B %d, %Y"
+
+show_excerpts: true
