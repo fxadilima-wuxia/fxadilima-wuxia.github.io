@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # 🦅 Intro
 
 Pada tahun 1252, Mongke Khan menugaskan Kubilai dan seorang jendral yang sarat pengalaman, Uriyangkhadai untuk
