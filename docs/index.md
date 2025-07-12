@@ -1,8 +1,8 @@
 ---
 layout: home
+title: 🦅 Intro
 ---
 
-# 🦅 Intro
 
 Pada tahun 1252, Mongke Khan menugaskan Kubilai dan seorang jendral yang sarat pengalaman, Uriyangkhadai untuk
 menaklukkan Kerajaan Dali. Mulai dari musim panas 1253 hingga awal 1254, misi itu sukses dalam menaklukkan suku-suku Dali
@@ -217,7 +217,6 @@ andalannya tewas di medan tempur. Untuk melampiaskan amarahnya dan membalas keka
 Kubilai kemudian memotong jalur pengiriman bahan-bahan pangan ke arah Karakorum dengan dukungan saudara sepupunya, Kadan,
 putra Ogedei Khan. Dengan cepat Karakorum jatuh ke tangan pasukan raksasa Kubilai. Tetapi begitu ditinggalkan oleh
 Kubilai, untuk sementara Ariq Boke kembali menguasainya pada tahun 1261.
-
 
 
 ## Tahun 1262, Guo Xiang dan Zhang Junbao
