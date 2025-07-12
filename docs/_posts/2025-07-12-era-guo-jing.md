@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Era Guo Jing dan Kubilai Khan
+date:   2025-07-12 05:55:38 +0700
+categories: [novel, cersil, storytelling, wuxia]
 description: > 
   Guo Jing diceritakan lahir sebelum Temujin menjadi Genghis Khan,
   di masa pemerintahan Kaisar Ningzong dari Dinasti Song,
