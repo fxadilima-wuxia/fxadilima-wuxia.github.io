@@ -1,6 +1,7 @@
 
 title: FX. Adi Lima Personal Site
 url: "https://fxadilima-wuxia.github.io"
+image: /images/default-kaifeng-1358.jpg
 author: 
   name: "FX. Adi Lima"
   email: "xaverius2017@gmail.com"
@@ -40,3 +41,17 @@ minima:
   date_format: "%A %B %d, %Y"
 
 show_excerpts: true
+
+# Di dalam _config.yml
+defaults:
+  - scope:
+      path: ""
+      type: "posts" # Berlaku untuk semua file di folder _posts
+    values:
+      image: /images/default-kaifeng-1358.jpg
+
+  - scope:
+      path: ""
+      type: "novel"
+    values: /images/default-novel-poster.jpg
+
