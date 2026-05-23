@@ -1,4 +1,4 @@
 ---
 layout: home
-image: /images/banner-kaifeng-1358.png
+image: /images/banner-kaifeng-1358.jpg
 ---
