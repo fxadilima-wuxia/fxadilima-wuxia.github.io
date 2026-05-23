@@ -1,0 +1,26 @@
+---
+layout: base
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1>Buku III</h1>
+    <img class="w3-image w3-round-large"
+        src="{{ page.feature_image | escape }}"
+        alt="feature_image" 
+    />
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+    <hr />
+    <div class="w3-bar w3-center">
+      <a class="w3-btn w3-round w3-border" href="/cersil/buku-3/{{page.prev_page}}">◀ Previous</a>
+      <a class="w3-btn w3-round w3-border" href="/cersil/buku-3/">Sinopsis</a>
+      <a class="w3-btn w3-round w3-border" href="/cersil/buku-3/{{page.next_page}}">Next ▶</a>
+    </div>
+  </div>
+
+</article>
+

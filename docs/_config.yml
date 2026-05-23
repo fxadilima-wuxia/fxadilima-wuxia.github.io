@@ -1,11 +1,24 @@
 
 title: FX. Adi Lima Personal Site
 url: "https://fxadilima-wuxia.github.io"
-author: FX. Adi Lima
+author: 
+  name: "FX. Adi Lima"
+  email: "xaverius2017@gmail.com"
+  uri: "https://github.com/fxadilima"
+  facebook:
+    username: "fx_adi_lima"
+  instagram:
+    username: "fx_adi_lima"
+sameAs:
+  - "https://facebook.com/fx_adi_lima"
+  - "https://instagram.com/fx_adi_lima"
+  - "https://github.com/fxadilima"
+  - "https://github.com/fxadilima-wuxia"
+
 description: >
-  This is Adi Lima's Wuxia Site on Github.
-  Di repo ini Anda hanya akan menemukan cerita-cerita silat, 
-  yang umumnya mengambil tema Dinasti Yuan.
+  Kumpulan cerita silat era Dinasti Song - Yuan - Ming,
+  yang disadur atau diadaptasikan dari serial klasik Jin Yong.
+  Ditulis oleh FX. Adi Lima.
 
 theme: minima
 
